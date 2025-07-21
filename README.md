@@ -1,12 +1,12 @@
-<h2 align="center">👋Hey, Nice to See You Here👀</h2>
+<h1 align="center">👋Hey, Nice to See You Here👀</h1>
 
 ###
 
-<h3 align="left">🧑‍💻 About Me</h3>
+<h2 align="left">🧑‍💻 About Me</h2>
 
 ###
 
-<h5 align="left">I'm Pourya — a 🛠️ backend developer who loves tackling technical challenges 🧠 and building scalable systems 🚀.  <br>I'm always looking to improve my skills 📚 and try to find a new learning opportunity in every project I work on 🔍.</h5>
+<h4 align="left">I'm Pourya — a 🛠️ backend developer who loves tackling technical challenges 🧠 and building scalable systems 🚀.  <br>I'm always looking to improve my skills 📚 and try to find a new learning opportunity in every project I work on 🔍.</h4>
 
 ###
 
@@ -16,7 +16,7 @@
 
 ###
 
-<h3 align="left">💪 Comfortable With</h3>
+<h2 align="left">💪 Comfortable With</h2>
 
 ###
 
@@ -32,7 +32,7 @@
 
 ###
 
-<h3 align="left">🧠 Currently Learning</h3>
+<h2 align="left">🧠 Currently Learning</h2>
 
 ###
 
@@ -50,7 +50,7 @@
 
 <br clear="both">
 
-<h3 align="left">🧩 Familiar With</h3>
+<h2 align="left">🧩 Familiar With</h2>
 
 ###
 
