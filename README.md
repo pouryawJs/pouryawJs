@@ -39,9 +39,9 @@
 ###
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=ts" height="45" alt="python logo"  />
+  <img src="https://skillicons.dev/icons?i=python" height="45" alt="python logo"  />
   <img width="20" />
-  <img src="https://skillicons.dev/icons?i=linux" height="45" alt="nestjs logo"  />
+  <img src="https://skillicons.dev/icons?i=nest" height="45" alt="nestjs logo"  />
 </div>
 
 ###
@@ -58,6 +58,8 @@
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=graphql" height="45" alt="graphql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="45" alt="mysql logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=html" height="45" alt="html5 logo"  />
   <img width="12" />
