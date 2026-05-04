@@ -6,7 +6,7 @@
 
 ###
 
-<h4 align="left">I'm Pourya — a 🛠️ backend developer who loves tackling technical challenges 🧠 and building scalable systems 🚀.  <br>I'm always looking to improve my skills 📚 and try to find a new learning opportunity in every project I work on 🔍.</h4>
+<h4 align="left">I'm Pourya, a backend developer who loves tackling technical challenges and building scalable systems.  <br>I'm always looking to improve my skills and try to find a new learning opportunity in every project I work on.</h4>
 
 ###
 
@@ -28,6 +28,8 @@
   <img src="https://skillicons.dev/icons?i=mongodb" height="45" alt="mongodb logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=express" height="45" alt="express logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=ts" height="45" alt="typescript logo"  />
 </div>
 
 ###
@@ -37,9 +39,9 @@
 ###
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=ts" height="45" alt="typescript logo"  />
+  <img src="https://skillicons.dev/icons?i=ts" height="45" alt="python logo"  />
   <img width="20" />
-  <img src="https://skillicons.dev/icons?i=linux" height="45" alt="linux logo"  />
+  <img src="https://skillicons.dev/icons?i=linux" height="45" alt="nestjs logo"  />
 </div>
 
 ###
