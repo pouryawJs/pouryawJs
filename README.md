@@ -4,6 +4,10 @@ Backend developer focused on TypeScript, Node.js, automation tools, and open-sou
 
 I'm currently building **Maintainer Agent Kit**, an open-source GitHub Action and CLI toolkit that helps maintainers automate repetitive repository tasks such as issue labeling and release note generation.
 
+## Content & Community
+
+I have also created programming tips content for developers, mainly around JavaScript, VS Code, and developer productivity, reaching a small developer audience on Instagram.
+
 ## Open Source Focus
 
 - Building developer tools for OSS maintainers
