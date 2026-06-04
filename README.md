@@ -1,13 +1,32 @@
-<h1 align="center">👋Hey, Nice to See You Here👀</h1>
+# Hi, I'm Pourya 👋
 
-###
+Backend developer focused on TypeScript, Node.js, automation tools, and open-source developer tooling.
 
-<h2 align="left">🧑‍💻 About Me</h2>
+I'm currently building **Maintainer Agent Kit**, an open-source GitHub Action and CLI toolkit that helps maintainers automate repetitive repository tasks such as issue labeling and release note generation.
 
-###
+## Open Source Focus
 
-<h4 align="left">I'm Pourya, a backend developer who loves tackling technical challenges and building scalable systems.  <br>I'm always looking to improve my skills and try to find a new learning opportunity in every project I work on.</h4>
+- Building developer tools for OSS maintainers
+- Working with TypeScript, Node.js, GitHub Actions, and automation workflows
+- Interested in CLI tools, backend systems, and workflow automation
+- Currently developing: `maintainer-agent-kit`
 
+## Current Project
+
+### Maintainer Agent Kit
+
+A lightweight GitHub Action and CLI toolkit for open-source maintainers.
+
+It helps automate:
+
+- Rule-based issue labeling
+- Release note generation
+- Repository maintenance workflows
+- Simple YAML-based maintainer automation
+
+The goal is to reduce repetitive maintainer work without requiring a hosted service or paid AI API.
+
+Repo: https://github.com/pouryawJs/maintainer-agent-kit
 ###
 
 <div align="center">
