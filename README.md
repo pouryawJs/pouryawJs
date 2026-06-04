@@ -7,6 +7,7 @@ I'm currently building **Maintainer Agent Kit**, an open-source GitHub Action an
 ## Content & Community
 
 I have also created programming tips content for developers, mainly around JavaScript, VS Code, and developer productivity, reaching a small developer audience on Instagram.
+I previously shared programming tips with a 6k+ developer audience on Instagram.
 
 ## Open Source Focus
 
