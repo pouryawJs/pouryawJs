@@ -2,46 +2,62 @@
 
 Backend developer focused on TypeScript, Node.js, automation tools, and open-source developer tooling.
 
-I'm currently building **Maintainer Agent Kit**, an open-source GitHub Action and CLI toolkit that helps maintainers automate repetitive repository tasks such as issue labeling and release note generation.
+I'm currently building small open-source developer tools around GitHub automation, CLI workflows, and TypeScript project scaffolding.
 
-## Content & Community
-
-I have also created programming tips content for developers, mainly around JavaScript, VS Code, and developer productivity, reaching a small developer audience on Instagram.
-
-I previously shared programming tips with a 6k+ developer audience on Instagram.
+---
 
 ## Open Source Focus
 
-- Building developer tools for OSS maintainers
-- Working with TypeScript, Node.js, GitHub Actions, and automation workflows
-- Interested in CLI tools, backend systems, and workflow automation
-- Currently developing: `maintainer-agent-kit`
+* TypeScript and Node.js developer tooling
+* GitHub Actions and maintainer automation
+* CLI tools for backend and automation workflows
+* Project scaffolding for cleaner developer experience
 
-## Current Project
+---
+
+## Current Projects
 
 ### Maintainer Agent Kit
 
-A lightweight GitHub Action and CLI toolkit for open-source maintainers.
+[`maintainer-agent-kit`](https://github.com/pouryawJs/maintainer-agent-kit) is a GitHub Action and CLI toolkit for open-source maintainers.
 
-It helps automate:
+It helps automate repetitive repository tasks such as:
 
-- Rule-based issue labeling
-- Release note generation
-- Repository maintenance workflows
-- Simple YAML-based maintainer automation
+* Rule-based issue labeling
+* Release note generation
+* Repository maintenance workflows
+* YAML-based maintainer automation
 
-The goal is to reduce repetitive maintainer work without requiring a hosted service or paid AI API.
+The project is designed to be lightweight, deterministic, and zero-backend.
 
-Repo: https://github.com/pouryawJs/maintainer-agent-kit
-###
+npm: [`maintainer-agent-kit`](https://www.npmjs.com/package/maintainer-agent-kit)
 
-<div align="center">
-  <img height="25" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif"  />
-</div>
+---
 
-###
+### telegram-bot-frame
 
-<h2 align="left">💪 Comfortable With</h2>
+[`telegram-bot-frame`](https://github.com/pouryawJs/telegram-bot-frame) is an early-stage TypeScript CLI scaffolding tool for Telegram bot projects.
+
+The goal is to generate clean Telegram bot starter projects with:
+
+* TypeScript setup
+* Grammy or Telegraf support
+* Organized handlers, services, middlewares, and config
+* Optional database setup
+* Optional Docker support
+
+This project is currently being developed step by step as an active work-in-progress.
+
+---
+
+## Content & Community
+
+I previously shared programming tips and developer productivity content with a 6k+ developer audience on Instagram, mostly around JavaScript, VS Code, and practical coding workflows.
+
+---
+## Tech Stack
+
+<h2 align="left">Comfortable With</h2>
 
 ###
 
@@ -59,7 +75,7 @@ Repo: https://github.com/pouryawJs/maintainer-agent-kit
 
 ###
 
-<h2 align="left">🧠 Currently Learning</h2>
+<h2 align="left">Currently Learning</h2>
 
 ###
 
@@ -77,7 +93,7 @@ Repo: https://github.com/pouryawJs/maintainer-agent-kit
 
 <br clear="both">
 
-<h2 align="left">🧩 Familiar With</h2>
+<h2 align="left">Familiar With</h2>
 
 ###
 
@@ -106,3 +122,17 @@ Repo: https://github.com/pouryawJs/maintainer-agent-kit
 </picture>
 
 ###
+
+---
+## What I'm building toward
+
+I'm interested in building practical open-source tools that reduce repetitive work for developers and maintainers.
+
+Current direction:
+
+* OSS maintainer utilities
+* GitHub automation tools
+* TypeScript CLI packages
+* Backend automation workflows
+* Developer productivity tools
+
