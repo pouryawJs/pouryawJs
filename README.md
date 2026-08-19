@@ -1,124 +1,98 @@
 # Hi, I'm Pourya 👋
 
-Backend developer focused on TypeScript, Node.js, automation tools, and open-source developer tooling.
+I'm a Computer Engineering student and a backend-focused developer interested in building practical web applications, APIs, automation tools, and data-driven systems.
 
-I'm currently building small open-source developer tools around GitHub automation, CLI workflows, and TypeScript project scaffolding.
-
----
-
-## Open Source Focus
-
-* TypeScript and Node.js developer tooling
-* GitHub Actions and maintainer automation
-* CLI tools for backend and automation workflows
-* Project scaffolding for cleaner developer experience
+My main focus is backend development with **Node.js and SQL/NOSQL databases**.
 
 ---
 
-## Current Projects
+## About Me
 
-### Maintainer Agent Kit
+- 🎓 Computer Engineering student at **Shiraz University**
+- 🔧 Focused on **Backend Development**
+- 🟢 Mainly working with **Node.js, Express and Databases like MySQL, PostgreSQL and MongoDB**
+- 🐍 Have real-world experience with **Python automation and data preparation**
+- 🧠 Currently learning **NestJS** and exploring better backend architecture and development practices
 
-[`maintainer-agent-kit`](https://github.com/pouryawJs/maintainer-agent-kit) is a GitHub Action and CLI toolkit for open-source maintainers.
+---
 
-It helps automate repetitive repository tasks such as:
+## Experience
 
-* Rule-based issue labeling
-* Release note generation
-* Repository maintenance workflows
-* YAML-based maintainer automation
+I have also worked part-time and remotely with a private team, where my responsibilities included:
 
-The project is designed to be lightweight, deterministic, and zero-backend.
+- Automating repetitive workflows using Python
+- Extracting and structuring text data for an AI-related project
+- Preparing datasets in spreadsheet-friendly formats for model training workflows
+- Improving repetitive processes with automation and AI-assisted development tools
 
-npm: [`maintainer-agent-kit`](https://www.npmjs.com/package/maintainer-agent-kit)
+This experience helped me become more comfortable with solving practical problems, working with unstructured data, and building small tools to improve existing workflows.
 
+---
+
+## Selected Projects
+
+### Telegram Task Manager
+
+[`Task Manager`](https://github.com/pouryawJs/taskmanager) is a backend-focused task management application built with **Node.js and PostgreSQL**, exposed through a Telegram bot interface.
+
+This is currently my main personal project and the foundation for future improvements, including a potential web interface and a later migration to **NestJS**.
 ---
 
 ### telegram-bot-frame
 
-[`telegram-bot-frame`](https://github.com/pouryawJs/telegram-bot-frame) is an early-stage TypeScript CLI scaffolding tool for Telegram bot projects.
+[`Telegram BOT Frame`](https://github.com/pouryawJs/telegram-bot-frame) is an early-stage TypeScript project for scaffolding Telegram bot applications.
 
-The goal is to generate clean Telegram bot starter projects with:
+It explores ideas around:
 
-* TypeScript setup
-* Grammy or Telegraf support
-* Organized handlers, services, middlewares, and config
-* Optional database setup
-* Optional Docker support
+- TypeScript project structure
+- Telegram bot development
+- Handlers, services, and middleware organization
+- Database and configuration setup
 
-This project is currently being developed step by step as an active work-in-progress.
-
----
-
-## Content & Community
-
-I previously shared programming tips and developer productivity content with a 6k+ developer audience on Instagram, mostly around JavaScript, VS Code, and practical coding workflows.
+This project is currently a work in progress and is mainly useful as a learning and experimentation project.
 
 ---
+
 ## Tech Stack
 
-<h2 align="left">Comfortable With</h2>
-
-###
+### Backend
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js" height="45" alt="javascript logo"  />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="45" alt="nodejs logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="45" alt="nodejs logo"  />
+  <img src="https://skillicons.dev/icons?i=ts" height="45" alt="typescript logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="45" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=express" height="45" alt="express logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ts" height="45" alt="typescript logo"  />
+  <img src="https://skillicons.dev/icons?i=express" height="45" alt="express logo" />
 </div>
 
-###
-
-<h2 align="left">Currently Learning</h2>
-
-###
+### Databases
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python" height="45" alt="python logo"  />
-  <img width="20" />
-  <img src="https://skillicons.dev/icons?i=nest" height="45" alt="nestjs logo"  />
+  <img src="https://skillicons.dev/icons?i=postgresql" height="45" alt="postgresql logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="45" alt="mysql logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="45" alt="mongodb logo" />
 </div>
 
-###
-
-<img align="right" height="20" src="https://camo.githubusercontent.com/748433fbf833d18f543ad4bb6d8c8c4f7f340c7fe8b9706df131a525049f0c8c/68747470733a2f2f63756c746f667468657061727479706172726f742e636f6d2f706172726f74732f68642f6c6170746f705f706172726f742e676966"  />
-
-###
-
-<br clear="both">
-
-<h2 align="left">Familiar With</h2>
-
-###
+### Currently Learning
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=graphql" height="45" alt="graphql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="45" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=html" height="45" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="45" alt="css3 logo"  />
+  <img src="https://skillicons.dev/icons?i=nest" height="45" alt="nestjs logo" />
 </div>
 
-###
+### Other Experience
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python" height="45" alt="python logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=graphql" height="45" alt="graphql logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=html" height="45" alt="html5 logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=css" height="45" alt="css3 logo" />
+  <img width="12" />
+  <img src="https://skills-icons.vercel.app/api/icons?i=socketio" height="45" alt="socket.io logo" />
+</div>
 
 ---
-## What I'm building toward
-
-I'm interested in building practical open-source tools that reduce repetitive work for developers and maintainers.
-
-Current direction:
-
-* OSS maintainer utilities
-* GitHub automation tools
-* TypeScript CLI packages
-* Backend automation workflows
-* Developer productivity tools
-
